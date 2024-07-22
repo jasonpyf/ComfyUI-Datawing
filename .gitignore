@@ -1,0 +1,6 @@
+# IDE Files #
+.idea
+
+# Python Files #
+__pycache__
+venv
